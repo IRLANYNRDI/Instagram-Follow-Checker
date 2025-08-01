@@ -1,4 +1,4 @@
-# Instagram Follow Checker (GUI)
+## 🕵️‍♀️ Instagram Follow Checker (GUI)
 
 Aplikasi Python sederhana berbasis GUI (Tkinter) untuk membantu kamu mengecek siapa saja yang kamu follow, tapi tidak follow kamu balik di Instagram.
 
@@ -6,12 +6,12 @@ Aplikasi Python sederhana berbasis GUI (Tkinter) untuk membantu kamu mengecek si
 
 ## 📥 1. Cara Mendapatkan File JSON dari Instagram
 
-1. Buka Instagram lewat browser
+1. Buka Instagram lewat browser/app 🌐
 2. Masuk ke **Pengaturan dan Privasi**
 3. Pilih **Pusat Akun > Data dan Privasi**
 4. Pilih **Unduh Informasi**
-5. Pilih format **JSON**, lalu pilih hanya **Orang yang Anda Ikuti dan Pengikut**
-6. Pilih kisaran tanggal **semua waktu**
+5. Pilih format **JSON**📄, lalu pilih hanya **Orang yang Anda Ikuti dan Pengikut**
+6. Pilih kisaran tanggal **semua waktu** ⏳
 7. Setelah selesai, kamu akan mendapatkan file ZIP
 8. Ekstrak ZIP tersebut, cari dua file berikut:
    - `followers_1.json`
@@ -21,7 +21,7 @@ Aplikasi Python sederhana berbasis GUI (Tkinter) untuk membantu kamu mengecek si
 
 ## 🛠 2. Cara Menjalankan Program
 
-### Opsi A: Lewat VS Code
+### Opsi A: Lewat VS Code💻
 
 1. Pastikan kamu sudah install [Python](https://www.python.org/downloads/)
 2. Buka folder project ini di VS Code
@@ -46,7 +46,7 @@ python cek_instagram_gui.py
 
 ## 📷 3. Cara Menggunakan Aplikasinya
 
-1. Klik tombol **"Mulai Cek Followers"**
+1. Klik tombol **"Mulai Cek Followers"**▶️
 2. Pilih file `followers_1.json`
 3. Pilih file `following.json`
 4. Hasil akan muncul langsung di layar dalam bentuk daftar username dengan link profilnya
