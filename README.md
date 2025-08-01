@@ -46,7 +46,7 @@ python cek_instagram_gui.py
 
 ## 📷 3. Cara Menggunakan Aplikasinya
 
-1. Klik tombol **"Mulai Cek Followers"**▶️
+1. Klik tombol **"Mulai Cek Followers"** ▶️
 2. Pilih file `followers_1.json`
 3. Pilih file `following.json`
 4. Hasil akan muncul langsung di layar dalam bentuk daftar username dengan link profilnya
