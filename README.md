@@ -29,17 +29,17 @@ Aplikasi Python sederhana berbasis GUI (Tkinter) untuk membantu kamu mengecek si
 4. Jalankan perintah berikut:
 
 ```bash
-python cek_instagram_gui.py
+python Cek_Instagram_GUI.py
 ```
 
 ### Opsi B: Lewat Terminal Biasa (CMD)
 
-1. Buka folder tempat kamu menyimpan file `cek_instagram_gui.py`
+1. Buka folder tempat kamu menyimpan file `Cek_Instagram_GUI.py`
 2. Tekan **Shift + Klik Kanan** lalu pilih **"Open PowerShell window here"**
 3. Jalankan:
 
 ```bash
-python cek_instagram_gui.py
+python Cek_Instagram_GUI.py
 ```
 
 ---
@@ -65,7 +65,7 @@ Kalau ingin menjadikan aplikasi ini `.exe`, kamu bisa gunakan PyInstaller:
 
 ```bash
 pip install pyinstaller
-pyinstaller --onefile --windowed cek_instagram_gui.py
+pyinstaller --onefile --windowed Cek_Instagram_GUI.py
 ```
 
 Hasilnya ada di folder `dist/`.
